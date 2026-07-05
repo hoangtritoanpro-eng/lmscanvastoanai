@@ -1,5 +1,5 @@
 // ============================================================================
-// LMS THẦY PHÚC - MAIN APP (FIXED VERSION)
+// LMS THẦY TOÀN - MAIN APP (FIXED VERSION)
 // Các sửa đổi:
 // 1. Chuyển tab 1 lần là nộp bài (thay vì 3 lần)
 // 2. Ẩn lý thuyết khi mở chuyên đề, chỉ hiện sau khi làm bài không đạt
@@ -1078,7 +1078,7 @@ const App: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-teal-50 to-emerald-50 p-4">
       <div className="w-full max-w-lg bg-white rounded-[2.5rem] shadow-xl border border-gray-100 overflow-hidden">
         <div className="p-8 bg-gradient-to-r from-teal-600 to-emerald-600 text-white">
-          <div className="text-3xl font-black flex items-center gap-3"><BookOpen size={28}/> LMS Phúc Rùa</div>
+          <div className="text-3xl font-black flex items-center gap-3"><BookOpen size={28}/> LMS Thầy Toàn</div>
           <div className="text-white/90 mt-2 font-semibold">Học & Thi Toán • Giao đề cho lớp • Chống gian lận</div>
         </div>
 

@@ -1435,7 +1435,7 @@ export const AdminPanel: React.FC<AdminProps> = ({ onLogout }) => {
                 <GraduationCap size={27} className="text-white" />
               </div>
               <div>
-                <div className="text-lg font-black leading-tight">LMS Thầy Phúc</div>
+                <div className="text-lg font-black leading-tight">LMS Thầy Toàn</div>
                 <div className="text-xs font-bold text-teal-100/80">Bảng điều khiển giáo viên</div>
               </div>
             </div>
